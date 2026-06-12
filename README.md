@@ -117,5 +117,7 @@ Este projeto simula um ambiente real de sustentação N1/N2, incluindo processos
 A utilização de agentes de IA pode reduzir o tempo de atendimento, padronizar processos e melhorar a qualidade da documentação em ambientes corporativos.
 
 
+## Observação
 
-### Entra
+Este projeto foi desenvolvido utilizando o Cursor IDE para definição de agentes declarativos (.md), seguindo o conceito apresentado no treinamento.
+
