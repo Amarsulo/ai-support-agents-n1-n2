@@ -22,6 +22,17 @@ Automatizar o processo de atendimento de chamados, incluindo:
 
 ---
 
+## Arquitetura BMAD
+
+Este projeto segue o modelo BMAD:
+
+- **Business** → Suporte N1/N2 corporativo
+- **Models** → Modelos de linguagem aplicados aos agentes
+- **Agents** → Agentes declarativos (.md)
+- **Data** → Chamados, erros, queries e código
+
+Essa estrutura permite organizar a solução de forma escalável e orientada a processos de negócio.
+
 ## Equipe de Agentes
 
 ### 01 - Orquestrador
